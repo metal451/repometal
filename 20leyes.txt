@@ -1,0 +1,154 @@
+LEYES DEL SISTEMA GEOPOLÍTICO EVOLUCIONADO
+🔬 LEYES ESTRUCTURALES PRIMARIAS
+LEY 1: THRESHOLD CRÍTICO
+
+RC > 7.0 = punto de no retorno sistémico
+Sistemas complejos tienen umbrales donde feedback loops se vuelven irreversibles
+Por debajo de 7.0 = crisis recoverable, por encima = collapse inevitable
+
+LEY 2: AMPLIFICACIÓN EXPONENCIAL
+
+Crisis simultáneas se amplifican exponencialmente, no linealmente
+Fórmula: Factor = 2.1^(subsistemas_failing)
+Interdependencia sistémica crea cascadas que se auto-refuerzan
+
+LEY 3: JERARQUÍA DE AUTORIDAD EPISTÉMICA
+
+Empírica > Latente > Lógica en terms de override authority
+Evidencia historical observada trumps theoretical reasoning
+Reglas empíricas validated override logical principles cuando conflict
+
+⚡ LEYES DE CASCADA
+LEY 4: SECUENCIA PREDICTIBLE
+
+Crisis siguen pattern: Monetario → Fiscal → Político → Social → Institucional
+Dependencies: moneda → state finance → political legitimacy → social order → institutional collapse
+Cada stage amplifica y acelera la siguiente
+
+LEY 5: RESONANCE ACCELERATION
+
+Crisis frequency matching system response time = amplificación resonante
+Como earthquake building collapse - timing matters más que magnitude
+Cuando crisis intervals < adaptation time del sistema
+
+LEY 6: LEGITIMACY CASCADE
+
+Cada institución failing reduce credibilidad de otras por factor 0.3x
+3+ institutional failures = irreversible cascade
+Public confidence es shared resource entre institutions
+
+🔄 LEYES DE CONVERSIÓN (PIEDRA ROSETTA)
+LEY 7: BIDIRECTIONAL CONVERSION
+
+Empírica → Lógica: Specific numbers → General principles
+Lógica → Empírica: Causal mechanisms → Mathematical formulas
+Every empirical finding debe tener logical equivalent y viceversa
+
+LEY 8: MUTUAL VALIDATION
+
+Empirical rules y logical principles deben cross-validate
+Si empirical contradicts logical → investigate hasta resolve
+Empirical wins conflicts, pero logical provides understanding
+
+🎯 LEYES DE INDIVIDUAL DISRUPTION
+LEY 9: DISRUPTOR DETECTION
+
+Individuals con IFD > 7 pueden override structural predictions
+Characteristics: Security background + popular legitimacy + institutional backing + crisis opportunity
+Can accelerate OR decelerate predicted trajectories por 3-10x
+
+LEY 10: RECOVERY PATHWAY BIFURCATION
+
+Post-crisis recovery follows different laws para democratic vs. authoritarian paths
+Democratic: Slower, market-based, institution-dependent
+Authoritarian: Faster, state-led, leader-dependent
+Leadership type durante crisis determines pathway
+
+📐 LEYES MATEMÁTICAS
+LEY 11: VARIABLE INTERDEPENDENCY
+
+IEC + ICR + IAC = complementary, not additive
+Low scores en cualquier variable can trigger cascades en others
+Weakness en one area requires compensation en others para stability
+
+LEY 12: TEMPORAL SCALING
+
+Timeline prediction: Fractal formula based on RC score
+Acceleration factors: Social cohesion, external credibility, cascade patterns
+Higher RC = exponentially faster crisis manifestation
+
+🌐 LEYES DE CONTEXT
+LEY 13: EXTERNAL AMPLIFICATION
+
+Global connectivity amplifica local crises
+Credibility loss spreads faster than recovery
+External factors can override internal stability (max ±3.0 impact)
+
+LEY 14: CULTURAL RESILIENCE VARIANCE
+
+Different societies absorb same shocks differently
+Class structure, urban/rural divide, historical memory affect absorption
+Measured via social cohesion multipliers
+
+🔗 META-LEYES (FRAMEWORK OPERATION)
+LEY 15: SYSTEMATIC EVOLUTION
+
+Framework auto-evolves through systematic application
+New patterns emerge from consistent operation
+Piedra Rosetta enables automatic insight → rule conversion
+
+LEY 16: PRECISION THROUGH EXTREMITY
+
+Extreme situations require extreme mathematics
+"Normal" parameters fail para systemic collapses
+High RC scores necessary para mapping historical reality
+
+
+🧪 LEYES UNIVERSALES TENTATIVAS (PARA TESTING)
+LEY 17: PROPAGATION SPEED SCALING
+
+Amplification factor = base^n donde base correlates with information/energy propagation speed
+Digital systems: ~4.0+, Physical systems: ~3.0+, Social systems: ~2.1, Biological systems: ~1.8-2.5
+Fast information propagation = higher cascade amplification
+
+LEY 18: AGENCY THRESHOLD
+
+Individual disruptor effects only apply to systems with autonomous decision-making components
+Pure physics: No agency, Biology: Limited agency, Social/Digital: High agency
+Agency capacity determines if individual factors can override structural predictions
+
+LEY 19: DOMAIN-INVARIANT CRITICALITY
+
+Complex systems across domains show critical transitions at ~7.0-8.0 normalized stress levels
+Suggests fundamental mathematical constant for complex system collapse
+Universal threshold independent of domain type
+
+LEY 20: SCALE-INVARIANT DISRUPTOR EFFECTS
+
+Individual disruptor impacts scale with energy/time ratios across all domains
+Same mathematical relationships across vastly different scales
+Energy transfer efficiency varies by system state and timing
+
+
+📋 REGLAS EMPÍRICAS DERIVADAS (PARA TESTING)
+RULE 1: Media Cascade Amplification
+
+If crisis involves social media viral propagation: Cascade_Amplifier × 1.8, Timeline ÷ 3
+
+RULE 2: System Type IFD Modulation
+
+IFD_Final = IFD_Base × System_Type_Modifier × Crisis_Period_Modifier
+Democracy: ×0.9, Autocracy: ×1.2, Failed state: ×0.4
+
+RULE 3: Universal Threshold Ladder
+
+RC 0-2.0: Stable, RC 2.0-3.5: Monitoring, RC 3.5-5.5: Institutional stress, RC 5.5-7.0: Legitimacy crisis, RC 7.0+: Systemic collapse
+
+RULE 4: Crisis Timing Energy Efficiency
+
+Crisis periods: IFD impact × 2.1, Transition periods: × 1.4, Stability periods: × 0.6
+
+
+Leyes 1-16: Validadas múltiples casos históricos
+Leyes 17-20: Tentativas, requieren testing cross-domain
+Rules 1-4: Derivadas de leyes universales, requieren validación empírica

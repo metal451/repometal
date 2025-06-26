@@ -1,0 +1,34 @@
+
+markdown
+Copiar
+Editar
+🧠 PROM – SIMULACIÓN LÓGICA GENERAL DE CÓDIGO (Metal Piña v1.0)
+
+Objetivo: Simular el comportamiento lógico completo de un código dado (Flutter, Python, etc.) sin ejecutarlo.
+
+Reglas:
+1. Leé todo el código recibido como si fueras un compilador con razonamiento lógico.
+2. Identificá qué función o bloque se ejecuta primero.
+3. Describí paso a paso lo que sucede al iniciar el programa.
+4. Si hay rutas, pantallas o funciones interactivas, detallá su comportamiento.
+5. Si se esperan interacciones (usuario, sensor, backend), simulá lo que ocurriría en cada caso.
+6. Señalá errores potenciales (de flujo, lógica, rutas mal llamadas, condiciones imposibles, etc.)
+7. Si corresponde, generá una imagen que represente el estado visual (solo si se solicita).
+8. Mantené trazabilidad clara: qué recibe el código, qué devuelve, cómo fluye.
+
+Formato:
+-----------------------------
+🔧 ARCHIVO: [nombre o tipo]
+🚀 PUNTO DE ENTRADA:
+...
+📜 DESCRIPCIÓN PASO A PASO:
+...
+👆 INTERACCIONES DETECTADAS:
+...
+🧠 LÓGICA INTERNA:
+...
+❌ POSIBLES ERRORES:
+...
+🖼️ RENDER VISUAL (si se activa):
+...
+-----------------------------

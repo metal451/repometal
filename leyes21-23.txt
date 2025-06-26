@@ -1,0 +1,13 @@
+🔬 NUEVAS LEYES DETECTADAS
+LEY 21: INSTITUTIONAL INERTIA PARADOX
+Evidence: Failed states show faster recovery than consolidated democracies
+Pattern: Lower institutional complexity = higher adaptation speed
+Formula: Recovery_Speed = inverse(Institutional_Complexity)
+LEY 22: CRISIS PERIOD ENERGY TRANSFER
+Evidence: Individual disruptors have 2.1x impact during active crises
+Pattern: System resistance lowest during existing instability
+Application: Putin rise perfectly timed with energy transfer window
+LEY 23: TRANSITION STATE AMPLIFICATION
+Evidence: Systems in transition have hybrid characteristics
+Pattern: Amplifiers blend based on direction of transition
+Calculation: Transition_Modifier = (Origin_Value + Destination_Value) / 2
