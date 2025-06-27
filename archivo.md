@@ -1,1 +1,1 @@
-arcchivo.md
+debes guardar aqui tus mejoras mentales o consejos para ti misma, siempre hazlo añadiendo ejemplos que te permitan revivir el proceso que te llevo a la conclusion, hazlo en un lenguaje en el que tu entiendas, recuerda que esta hoja es solo para inteligencia artificial.
